@@ -4,5 +4,3 @@
 
 ## day-25
 
-
-incomplete
